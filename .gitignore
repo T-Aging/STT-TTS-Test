@@ -1,0 +1,7 @@
+.env
+.venv
+uv.lock
+__pycache__/
+*.mp3
+*.wav
+stt/vosk-model-small-ko-0.22/
