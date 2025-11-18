@@ -2,4 +2,4 @@
 .venv
 uv.lock
 __pycache__/
-tts.mp3
+*.mp3
