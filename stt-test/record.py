@@ -10,3 +10,4 @@ def record_audio(filename="voice.wav", duration=20, fs=16000):
 
 if __name__ == "__main__":
     record_audio()
+ 
